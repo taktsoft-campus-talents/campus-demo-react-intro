@@ -1,0 +1,17 @@
+.card {
+  border: 6px solid black;
+  border-radius: 6px;
+  padding: 12px;
+}
+
+.card h2 {
+  color: green;
+}
+
+.text-content {
+  color: blue;
+}
+
+.featured {
+  border-color: red;
+}
